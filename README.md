@@ -5,6 +5,7 @@ comparision of element
 </br>
 
 import java.util.Scanner;
+</br>
 class pracarray{
     public static void main(String[] args) {
          Scanner sc=new Scanner(System.in);
